@@ -1,0 +1,53 @@
+{
+  "ID": "i-007a4d8ba77c6df36",
+  "Name": "my-linux server",
+  "status": "running"
+}
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "DevOpsAdmin",
+            "UserId": "AIDAYNZQXXWAOWNYJKVXA",
+            "Arn": "arn:aws:iam::579385933184:user/DevOpsAdmin",
+            "CreateDate": "2025-06-17T01:32:21+00:00",
+            "PasswordLastUsed": "2026-01-22T04:56:23+00:00"
+        },
+        {
+            "Path": "/",
+            "UserName": "SRE_role",
+            "UserId": "AIDAYNZQXXWAC7YL5T6D2",
+            "Arn": "arn:aws:iam::579385933184:user/SRE_role",
+            "CreateDate": "2025-12-23T10:28:13+00:00",
+            "PasswordLastUsed": "2025-12-23T10:31:52+00:00"
+        }
+    ]
+}
+Print list of s3 buckets
+Print list of ec2 instances
+{
+  "ID": "i-007a4d8ba77c6df36",
+  "Name": "my-linux server",
+  "status": "running"
+}
+Print list of IAM users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "DevOpsAdmin",
+            "UserId": "AIDAYNZQXXWAOWNYJKVXA",
+            "Arn": "arn:aws:iam::579385933184:user/DevOpsAdmin",
+            "CreateDate": "2025-06-17T01:32:21+00:00",
+            "PasswordLastUsed": "2026-01-22T04:56:23+00:00"
+        },
+        {
+            "Path": "/",
+            "UserName": "SRE_role",
+            "UserId": "AIDAYNZQXXWAC7YL5T6D2",
+            "Arn": "arn:aws:iam::579385933184:user/SRE_role",
+            "CreateDate": "2025-12-23T10:28:13+00:00",
+            "PasswordLastUsed": "2025-12-23T10:31:52+00:00"
+        }
+    ]
+}
