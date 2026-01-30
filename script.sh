@@ -14,11 +14,17 @@ echo "Print list of IAM users"
 aws iam list-users >> output.json
 
 
+
 #listing example rebase
 
 
 #main changes
 
+#list lamda functions
+
+
 } >> output.json
+
+
 
 
