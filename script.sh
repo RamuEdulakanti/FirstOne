@@ -12,6 +12,9 @@ aws ec2 describe-instances | jq '.Reservations[].Instances[] | {ID: .InstanceId,
 #list of IAM users
 echo "Print list of IAM users"
 aws iam list-users >> output.json
+
+#listing example rebase
+
 } >> output.json
 
 
