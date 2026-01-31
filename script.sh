@@ -24,6 +24,9 @@ aws iam list-users >> output.json
 
 # rebase example
 #
+
+#merge example
+
 } >> output.json
 
 
