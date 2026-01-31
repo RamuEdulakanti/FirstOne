@@ -23,6 +23,8 @@ aws iam list-users >> output.json
 #list lamda functions
 
 
+#merge example
+
 } >> output.json
 
 
